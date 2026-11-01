@@ -1,5 +1,7 @@
 
-![Silent Observer](silent-observer.gif)
+<p align="center">
+  <img src="silent-observer.gif" width="100%" alt="Silent Observer">
+</p>
 
 ---
 
